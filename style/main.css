@@ -1,0 +1,70 @@
+body{
+   background: #ffffff;
+   width: 100%;
+   margin: 0;
+}
+
+h1{
+   font-size: 36px;
+   color: #212121;
+   font-family: 'Raleway', sans-serif;
+   text-align: center;
+   margin: 0;
+   padding-top: 107px;
+}
+hr{
+   background: #FF8B38;
+   width: 64px;
+   height: 2px;
+   border: none;
+   margin-top: 30px;
+}
+p{
+   font-size: 14px;
+   font-family: 'Open Sans', sans-serif;
+   color: #86878B;
+   text-align: center;
+   margin: 30px 0;
+}
+h3{
+   font-size: 20px;
+   font-family: 'Open Sans', sans-serif;
+   color: #333333;
+   text-align: center;
+   margin-top: 30px;
+}
+
+
+.main{
+    text-align: center;
+    margin-top: 80px;
+}
+.container{
+    width: 350px;
+    display: inline-block;
+}
+figure{
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+}
+
+.lamp{
+    width: 19px;
+    height: 28px;
+    margin: 21px 25px;
+}
+.keyboard{
+    width: 35px;
+    height: 21px; 
+    margin: 24px 17px;
+}
+.volt{
+    width: 17px;
+    height: 31px;
+    margin: 20px 26px;
+}
+ 
