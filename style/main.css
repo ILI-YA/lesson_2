@@ -31,7 +31,7 @@ h3{
    font-family: 'Open Sans', sans-serif;
    color: #333333;
    text-align: center;
-   margin-top: 30px;
+   padding-top: 30px;
 }
 
 
@@ -43,28 +43,36 @@ h3{
     width: 350px;
     display: inline-block;
 }
-figure{
+
+.container-lamp{
     width: 70px;
     height: 70px;
     margin: 0 auto;
-    text-align: center;
+    background-image: url(../img/lamp.jpg);
+    background-repeat: no-repeat;
+    background-position: center 21px;
     border: 2px solid #FF8B38;
     border-radius: 50%;
 }
 
-.lamp{
-    width: 19px;
-    height: 28px;
-    margin: 21px 25px;
+.container-keyboard{
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    background-image: url(../img/keyboard.jpg);
+    background-repeat: no-repeat;
+    background-position: center 25px;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
 }
-.keyboard{
-    width: 35px;
-    height: 21px; 
-    margin: 24px 17px;
+
+.container-volt{
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    background-image: url(../img/volt.jpg);
+    background-repeat: no-repeat;
+    background-position: center 19px;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
 }
-.volt{
-    width: 17px;
-    height: 31px;
-    margin: 20px 26px;
-}
- 
